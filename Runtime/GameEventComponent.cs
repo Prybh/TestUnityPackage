@@ -10,10 +10,16 @@ public class GameEventComponent : MonoBehaviour
         public UnityEvent eventCallback;
     }
 
-    [SerializeField] private GameEvent[] events;
+    [SerializeField] private GameEvent[] events = null;
 
     public void Invoke(string eventName)
     {
+        if (events == null || events.Length == 0)
+        {
+            Debug.LogError(GetType().Name + " " + gameObject.name + " don't have any registered event");
+            return;
+        }
+
         bool found = false;
         foreach (GameEvent ev in events)
         {
@@ -23,6 +29,7 @@ public class GameEventComponent : MonoBehaviour
                 break;
             }
         }
+
         if (!found)
         {
             Debug.LogError("GameEvent '" + eventName + "' not found in " + gameObject.name + " " + GetType().Name);
