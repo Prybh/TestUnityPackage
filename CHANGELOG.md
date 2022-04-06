@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Prybh/TestUnityPackage/compare/v1.1.2...v1.2.0) (2022-04-06)
+
+
+### Features
+
+* add unit tests ([7a3b5a2](https://github.com/Prybh/TestUnityPackage/commit/7a3b5a22607e64315047a56ba27032d0e6fdcce1))
+
 ## [1.1.2](https://github.com/Prybh/TestUnityPackage/compare/v1.1.1...v1.1.2) (2022-04-06)
 
 
