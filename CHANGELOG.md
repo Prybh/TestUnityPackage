@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Prybh/TestUnityPackage/compare/v1.1.0...v1.1.1) (2022-04-06)
+
+
+### Bug Fixes
+
+* add meta files ([5cc0194](https://github.com/Prybh/TestUnityPackage/commit/5cc01948ee413d1452a13d240cc8c0478dcf0f45))
+
 # [1.1.0](https://github.com/Prybh/TestUnityPackage/compare/v1.0.0...v1.1.0) (2022-04-06)
 
 
