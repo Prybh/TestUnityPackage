@@ -12,13 +12,13 @@
     "unitypackage"
   ],
   "author": {
-    "name": "Charles Mailly"
+    "name": "Prybh"
   },
   "samples": [
     {
       "displayName": "SampleScript",
       "description": "SampleScriptDescription",
-      "path": "Samples~/Sample1"
+      "path": "Samples~/SampleScript"
     }
   ]
 }

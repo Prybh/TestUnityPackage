@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class AlarmComponent : MonoBehavior
+public class SampleScript : MonoBehaviour
 {
     private void Start()
     {
