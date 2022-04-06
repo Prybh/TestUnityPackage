@@ -25,7 +25,7 @@ public class GameEventComponent : MonoBehaviour
         }
         if (!found)
         {
-            Debug.LogError("Event '" + eventName + "' not found in " + gameObject.name + " " + GetType().Name);
+            Debug.LogError("GameEvent '" + eventName + "' not found in " + gameObject.name + " " + GetType().Name);
         }
     }
 }
