@@ -1,0 +1,25 @@
+{
+  "name": "com.prybh.testunitypackage",
+  "version": "1.0.0",
+  "displayName": "TestUnityPackage",
+  "description": "This is an example package",
+  "unity": "2021.2",
+  "documentationUrl": "https://github.com/Prybh/TestUnityPackage",
+  "changelogUrl": "https://github.com/Prybh/TestUnityPackage/CHANGELOG",
+  "licensesUrl": "https://github.com/Prybh/TestUnityPackage/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "unitypackage"
+  ],
+  "author": {
+    "name": "Charles Mailly"
+  },
+  "samples": [
+    {
+	  "displayName": "SampleScript",	
+	  "description": "SampleScriptDescription",	
+	  "path": "Samples~/Sample1"
+	}
+  ]
+}
