@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Prybh/TestUnityPackage/compare/v1.1.1...v1.1.2) (2022-04-06)
+
+
+### Bug Fixes
+
+* sample folder ([95f1976](https://github.com/Prybh/TestUnityPackage/commit/95f1976991ba7374001fa3c10306489974cb0728))
+
 ## [1.1.1](https://github.com/Prybh/TestUnityPackage/compare/v1.1.0...v1.1.1) (2022-04-06)
 
 
