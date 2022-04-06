@@ -5,8 +5,8 @@
   "description": "This is an example package",
   "unity": "2021.2",
   "documentationUrl": "https://github.com/Prybh/TestUnityPackage",
-  "changelogUrl": "https://github.com/Prybh/TestUnityPackage/CHANGELOG",
-  "licensesUrl": "https://github.com/Prybh/TestUnityPackage/LICENSE",
+  "changelogUrl": "https://github.com/Prybh/TestUnityPackage/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Prybh/TestUnityPackage/LICENSE.md",
   "dependencies": {
   },
   "keywords": [
