@@ -17,6 +17,7 @@ public class GameEventComponent : MonoBehaviour
         if (events == null || events.Length == 0)
         {
             Debug.LogError(GetType().Name + " " + gameObject.name + " don't have any registered event");
+
             return;
         }
 
