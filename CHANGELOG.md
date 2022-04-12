@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/Prybh/TestUnityPackage/compare/v1.2.0...v1.2.1) (2022-04-12)
+
+
+### Bug Fixes
+
+* add space line (test packaging workflow) ([fde3b56](https://github.com/Prybh/TestUnityPackage/commit/fde3b56296ba961aacc1a0350b0b3508972ae495))
+
 # [1.2.0](https://github.com/Prybh/TestUnityPackage/compare/v1.1.2...v1.2.0) (2022-04-06)
 
 
